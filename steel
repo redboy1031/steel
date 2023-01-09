@@ -1,4 +1,4 @@
-local items = {"Steel Ball"}
+local items = {"Presant"}
             local me = game.Players.LocalPlayer
             char = me.Character
             HRP = char.HumanoidRootPart
