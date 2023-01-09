@@ -1,4 +1,4 @@
-local items = {"Presant"}
+local items = {"Present"}
             local me = game.Players.LocalPlayer
             char = me.Character
             HRP = char.HumanoidRootPart
